@@ -1,8 +1,37 @@
 header{
-
-    color:green;
-}
-h1{
+    background-color:papayawhip;
     color:aquamarine;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding:40px;
+    font-size: 30px;
+
+}
+nav{
+    background-color: aquamarine;
+    margin: 0;
+    padding:40px;
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+
+}
+li{
+    display:inline;
+    padding:10px;
+    align-items: center;
+}
+main{
+    background-color:papayawhip;
+    padding:1000px;
+    
+
+}
+
+
+
+footer{
+
 }
