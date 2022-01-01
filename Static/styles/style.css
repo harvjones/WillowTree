@@ -10,19 +10,42 @@ header{
 nav{
     background-color: aquamarine;
     margin: 0;
-    padding:20px;
+    padding:30px;
+}
+#welcome{
+    position:absolute;
+    top: 420px;
+    right:450px;
+    left:200px;
+    font-family: fantasy;
+    font-size: 40px;
+    color: aquamarine;
+
+}
+
+#maininfo{
+    position: absolute;
+    top: 500px;
+    right:400px;
+    left: 200px;
+    font-family: fantasy;
+    color:black;
+    
 }
 
 ul{
     list-style-type: none;
     margin:0;
     padding:0;
+    text-align:center;
 
 }
 li{
     display:inline;
     padding:20px;
     align-items: center;
+    text-align:center;
+
 }
 main{
     background-color:papayawhip;
